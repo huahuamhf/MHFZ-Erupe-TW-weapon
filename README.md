@@ -5,7 +5,6 @@ MHFZ怪物猎人边境服务器huahua源码分享
 大部分武器都是分类到大剑类别
 现在的文件你只能本地端使用，如果要在别人搭建的加密服务器使用就
 需要多一个文件mhl.dll可以发邮件找我拿mhfapple@tildamail.com
-
 后续还会更新更多怪物猎人边境服务器huahua源码任务文件放出请关注
 
 有疑问可以发邮件mhfapple@tildamail.com
